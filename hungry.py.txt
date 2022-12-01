@@ -1,0 +1,25 @@
+hungry=input('are you hungry')
+if hungry='yes' or hungry='y' or hungry='y'
+print('eat noodles')
+print('eat burger')
+print('pizza')
+print('eat butter chicken')
+
+else
+print('do homework')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hungry
